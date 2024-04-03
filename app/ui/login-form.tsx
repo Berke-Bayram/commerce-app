@@ -5,7 +5,7 @@ export default function LoginForm() {
       <input
         type="email"
         className="block w-full p-3 mt-1 mb-1 bg-gray-200 rounded"
-        placeholder="Email address"
+        placeholder="Email"
         autoComplete="email"
       />
       <label className="text-white">Password</label>
